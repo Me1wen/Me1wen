@@ -1,6 +1,7 @@
 # Hi, I'm Kenny
 
-My name is Yiyang Lei, and I go by Kenny.  
+My name is Yiyang Lei, and I go by Kenny. 
+
 I'm a Business Analytics graduate focused on data analytics, SQL, Python, and business problem-solving.
 
 I use data to understand business problems, clean and analyze datasets, build models, and communicate insights clearly.
