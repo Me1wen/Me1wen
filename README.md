@@ -2,7 +2,7 @@
 
 I'm a Business Analytics graduate focused on data analytics, SQL, Python, and business problem-solving.
 
-I use data to clean messy datasets, build analytical workflows, evaluate models, and translate results into business recommendations.
+I use SQL and Python to clean datasets, build analytical workflows, evaluate models, and translate results into business recommendations.
 
 ## Skills
 
