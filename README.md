@@ -18,7 +18,7 @@ Built a BigQuery SQL workflow to estimate classifier recall using stratified sam
 
 ## Career Focus
 
-Data Analyst | Business Analyst | Marketing Analyst | Business Analytics
+I'm currently looking for Data Analyst, Business Analyst, Marketing Analyst, and related analytics roles.
 
 <!--
 **Me1wen/Me1wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
